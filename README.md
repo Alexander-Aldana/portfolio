@@ -24,8 +24,19 @@ En mi día a día me encuentro situaciones en las que veo procesos ineficiente u
 ---
 
 ## Proyectos Universitarios
+### 📌 Proyecto Final Módulo 3
+**Tecnologías:**
+- Java
+- Git
+- GitHub
 
-...
+**Descripción:**
+Proyecto final desarrollado como parte del Módulo 3, aplicando conceptos de programación orientada a objetos y buenas prácticas de desarrollo.
+
+**Estado:** ✅ Finalizado
+
+**Repositorio:**  
+🔗 [Ver proyecto en GitHub](https://github.com/Alexander-Aldana/clase8_ProyectoFinal_M3)
 
 ---
 
